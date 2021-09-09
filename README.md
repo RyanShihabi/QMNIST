@@ -1,2 +1,2 @@
 # QMNIST
-My attempt of the QMNIST kaggle challenge using pytorch
+My attempt of the QMNIST(Extended MNIST dataset) kaggle challenge using pytorch
